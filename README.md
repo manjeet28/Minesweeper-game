@@ -1,0 +1,1 @@
+Simple minesweeper game created using Python and its tkinter library, applying all the standard OOPS concepts as well.
